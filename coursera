@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Ryan's Coursera Page</title>
+  </head>
+  <body>
+      <h1><b>Ryan Winston Elliott</b></h1>
+    <nav>
+      <a href="https://twitter.com" alt="minecraft">One</a>
+      <a href="https://google.com" alt="google">Two</a>
+      <a href="https://wikipedia.org" alt="wikipedia">Three</a>
+      <a href="https://minecraft.net" alt="minecraft">minecraft</a>
+    </nav>
+      <h2>Favorite Foods</h2>
+      <ul>
+          <li>Arugala</li>
+          <li>Mushrooms</li>
+          <li>Borsch</li>
+          <li>Fish</li>
+      </ul>
+      <h2>Achievements</h2>
+
+      <p>Progress in this course (100%) <label for="file"></label>
+        <progress id="file" value="100" max="100"></progress></p>
+      <p>Progress in the Specilization capstone (20%)<label for="file"></label>
+        <progress id="file" value="20" max="100"></p>
+      <p>Progress in learning Turkish (10%)<label for="file"></label>
+        <progress id="file" value="%" max="100"></p>
+          
+
+            <h2>More About Me</h2>
+            <details>
+                <summary>My Childhood</summary>
+                <p>I was born in Anaheim Hills, CA and have now been living in Asia for 4 years teaching ESL! <a href="https://www.dog.com/" alt="dog website"><img src="https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg" alt="dog smiling" width="200"></p></a>
+            </details>
+            
+            <footer>
+            <a href="http://www.intro-webdesign.com" alt="web design site"><img src="http://www.intro-webdesign.com/images/newlogo.png" alt="web design for everyone"></a>This page was created by Ryan Winston Elliott & Collen van Lent. To learn more about web design, 
+              visit <a href="http://intro-webdesign.com/">Intro to Web Design.</a>
+            </footer>
+
+
+
+  </body>
+</html>
